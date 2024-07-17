@@ -139,3 +139,6 @@ E:\Desktop\.NET\DemoASP.NET\api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.
 E:\Desktop\.NET\DemoASP.NET\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 E:\Desktop\.NET\DemoASP.NET\api\bin\Debug\net8.0\Newtonsoft.Json.dll
 E:\Desktop\.NET\DemoASP.NET\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\Desktop\.NET\DemoASP.NET\api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Desktop\.NET\DemoASP.NET\api\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Desktop\.NET\DemoASP.NET\api\obj\Debug\net8.0\api.sourcelink.json
